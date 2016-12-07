@@ -73,7 +73,6 @@ module.exports = function (program) {
             }
             console.log('config created on', configPath)
           })
-
         })
         .catch((err) => {
           console.log('Error:', err)
