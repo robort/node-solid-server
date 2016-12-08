@@ -59,6 +59,7 @@
     "nodemailer": "^2.3.2",
     "nomnom": "^1.8.1",
     "oidc-op": "git://github.com/anvilresearch/oidc-op.git#master",
+    "oidc-op-express": "^0.0.1",
     "oidc-rs": "git://github.com/anvilresearch/oidc-rs.git#master",
     "rdflib": "^0.12.3",
     "request": "^2.72.0",
